@@ -267,7 +267,10 @@ Evaluation results are saved in `data/processed/evaluation_results.csv`.
 
 Internal project for CrediTrust Financial
 
-## 👥 Team
+## 👥 Team & Author
+
+**Author / Developer:**
+- [saremworkuu](https://github.com/saremworkuu)
 
 **Facilitators:**
 - Kerod
