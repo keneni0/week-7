@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) powered AI system for analyzing customer complaints across financial products at CrediTrust Financial.
 
-## 📋 Project Overview
+##  Project Overview
 
 This project builds an intelligent complaint-answering chatbot that empowers product, support, and compliance teams to understand customer pain points across four major product categories:
 - **Credit Cards**
