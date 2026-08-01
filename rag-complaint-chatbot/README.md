@@ -75,7 +75,7 @@ rag-complaint-chatbot/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/saremworkuu/Intelligent-Complaint-Analysis-for-Financial-Services.git
+git clone https://github.com/keneni0/week-7.git
 cd rag-complaint-chatbot
 ```
 
@@ -267,10 +267,7 @@ Evaluation results are saved in `data/processed/evaluation_results.csv`.
 
 Internal project for CrediTrust Financial
 
-## 👥 Team & Author
-
-**Author / Developer:**
-- [saremworkuu](https://github.com/saremworkuu)
+## 👥 Team
 
 **Facilitators:**
 - Kerod
