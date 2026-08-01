@@ -75,7 +75,7 @@ rag-complaint-chatbot/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/saremworkuu/Intelligent-Complaint-Analysis-for-Financial-Services.git
+git clone 
 cd rag-complaint-chatbot
 ```
 
@@ -263,33 +263,3 @@ Evaluation results are saved in `data/processed/evaluation_results.csv`.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request)
 
-## 📄 License
-
-Internal project for CrediTrust Financial
-
-## 👥 Team & Author
-
-**Author / Developer:**
-- [saremworkuu](https://github.com/saremworkuu)
-
-**Facilitators:**
-- Kerod
-- Mahbubah
-- Feven
-
-## 📅 Key Dates
-
-- Challenge Introduction: June 17, 2026
-- Interim Submission: June 21, 2026
-- Final Submission: June 23, 2026
-
-## 💬 Support
-
-- Slack channel: #all-week7
-- Office Hours: Mon–Fri, 08:00–15:00 UTC
-
-## ⚠️ Notes
-
-- This tool uses AI to analyze customer complaints. Always verify critical information with official data sources.
-- The pre-built vector store requires significant disk space (~80MB for embeddings).
-- Running the full LLM (Mistral-7B) requires GPU or sufficient RAM for quantization.
